@@ -18,11 +18,11 @@
 
 |NOMBRE        | IMAGEN     | USO              |
 |--------------|------------|------------------|
-|***Live Preview***| ![live](IMG/livepreview.png)| visualizar presentación HTML|
-|***CSS*** |![CSS](IMG/css.png)| ayuda con sintaxis y autocompletado |
-|***XML***    | ![XML](IMG/xml.png)|             |
-|***Markdawn*** | ![MD](IMG/MD.png)|               |
-          |
+|***Live Preview***| ![live](IMG/livepreview.png)| visualizar presentación HTML en tiempo real.
+|***CSS*** |![CSS](IMG/css.png)|Aporta ayuda con sintaxis y autocompletado para CSS. |
+|***XML***    | ![XML](IMG/xml.png)|Aporta ayuda de sintaxis y autocompletado para XML.             |
+|***Markdawn*** | ![MD](IMG/MD.png)|Previsualiza el código de Markdown (MD)en tiempo real.
+        
 ## 3. Instalar Git.
 
  ``bash
@@ -35,3 +35,4 @@
 . Añadir código y hacer **commit**.
 
 ```bash
+
